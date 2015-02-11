@@ -6,7 +6,7 @@
   <artifactId>hello</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-
+<!--hello-->
   <name>hello</name>
   <url>http://maven.apache.org</url>
 
